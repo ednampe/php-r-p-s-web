@@ -3,9 +3,12 @@ A web-based Rock Paper Scissors game built with PHP, session-based state managem
 
 # Installation and Requirements
 Clone the repository to a folder
+
 Run php -S localhost:8000 in your terminal
+
 Access the game through a web browser with http://localhost:8000/r-p-s.php
-Contributing
+
+# Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 # License
